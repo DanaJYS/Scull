@@ -3,4 +3,4 @@
 *.symvers
 *.order
 *.mod
-.cmd
+*.cmd
