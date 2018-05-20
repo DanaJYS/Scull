@@ -1,0 +1,1 @@
+cmd_/home/danajin/DriverProjects/simpleScull/Scull.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-24-generic/scripts/module-common.lds --build-id  -o /home/danajin/DriverProjects/simpleScull/Scull.ko /home/danajin/DriverProjects/simpleScull/Scull.o /home/danajin/DriverProjects/simpleScull/Scull.mod.o
